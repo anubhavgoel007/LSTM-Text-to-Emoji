@@ -20,7 +20,8 @@ emojifier_DeepLearningCode/dataset : this contains sample dataset which was used
 
 emojifier_DeepLearningCode/embedding : this folder should contain the glove vector embedding.(refer readme.txt to download)
 
-emojifier_DeepLearningCode/trainedModel : trained model weights and architecture get saved here
+emojifier_DeepLearningCode/trainedModel : trained model weights and architecture get saved here![3](https://user-images.githubusercontent.com/43823465/142716902-ae91134f-ab3d-4509-97cc-d7cf77752dba.jpeg)
+
 
 emojifier_DeepLearningCode/train.py : training code to train a deep learning model
 
@@ -36,5 +37,6 @@ This contains the django application which contains the views and urls for our p
 It contains the frontend templates used in the project
 
 ## Adding Screenshots![Screenshot (95)](https://user-images.githubusercontent.com/43823465/142716707-cf237ff8-e836-4fde-a607-326f7cdb5d0c.png)
-![Screenshot (97)](https://user-images.githubusercontent.com/43823465/142716711-3dd67a68-2db9-4d31-b075-e8d94f02afcd.png)
-![Screenshot (96)](https://user-images.githubusercontent.com/43823465/142716710-59b34356-1743-46f9-b43e-42bf0ed95178.png)
+![Screenshot (97)](https://user-images.githubusercontent.com/43823465/142716711-3dd67a68-2db9-4d31-b075-e8d94f02afcd.png)![3](https://user-images.githubusercontent.com/43823465/142716908-e23ccc45-8d1a-4cca-99ed-1aafc0aac7e8.jpeg)
+
+
